@@ -1,0 +1,36 @@
+# Head First Python - panic with detailed description - Nondestructive
+
+# Non-desctructive slicing 
+
+# David Gillette
+# 630-975-7282
+# jupyter editor
+
+
+# the string "Don't panic!" is assigned to the variable phrase
+phrase = "Don't panic!"
+
+# the pliust variable contains the string converted to a list
+plist = list(phrase)
+
+# the orginal string phrase and the list plist are printed for validation
+print(phrase)
+print(plist)
+
+
+# slicing the list
+
+# new_phrase variable is assigned the 2nd and 3rd element of the list
+# index 1 is inclusive and index 3 is exclusive
+new_phrase = ''.join(plist[1:3])
+
+# new_phrase variable is assigned current new_phrase and concatenating
+# a join of plist elements at index 5, 4, 7 & 6
+new_phrase = new_phrase + ''.join([plist[5], plist[4], plist[7], plist[6]])
+
+
+# the original plist is printed validating it is in original state
+print(plist)
+
+# the new_phrase variable is printed validating the string has been modified
+print(new_phrase)
