@@ -1,6 +1,6 @@
 # David Gillette, 6 Cedar Court, Lemont, IL 60439
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+Phone: 630-975-7282   email: gillettedb@gmail.com
 
 ## Repositories
 
