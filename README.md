@@ -2,6 +2,8 @@
 
 Phone: 630-975-7282   email: gillettedb@gmail.com
 
+# Philosophy: "You can only live life as "The Man in the Arena"
+
 ## Skills
 
 Database Administration
