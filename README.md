@@ -2,11 +2,12 @@
 
 Phone: 630-975-7282   email: gillettedb@gmail.com
 
-## Repositories
+## Skills
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
+Database Administration
 
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
+Created and distributed Microsoft Access applications used in an enterprise environment. Experienced creating tables, forms, macros, modules, interactive queries and reports, dbo links to SQL server. Created automated agents, basic stored procedures in SQL 7, writing simple DTS packages. Famililar with query analyzer.
+
 
 ## Describe your project
 
