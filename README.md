@@ -2,7 +2,7 @@
 
 Phone: 630-975-7282   email: gillettedb@gmail.com
 
-### Philosophy: "You can only live life as "The Man in the Arena"
+### Philosophy: "You can only live life when you're "The Man in the Arena"
 
 ## Skills
 
